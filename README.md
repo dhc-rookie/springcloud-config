@@ -1,3 +1,3 @@
 # springcloud-config
 
-springcloud配置文件
+springcloud配置中心
